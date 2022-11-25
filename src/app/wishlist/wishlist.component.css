@@ -1,0 +1,19 @@
+.Card > img{
+  width: 300px;
+  height: 440px;
+  border-top: 10px solid #d37a76!important;
+  border-left: 10px solid #d37a76!important;
+  border-right: 10px solid #fca8a6!important;
+  border-bottom: 10px solid #fca8a6!important;
+}
+
+.card-price{
+  color: rgb(251, 68, 68);
+}
+
+.btn-heart{
+  cursor: pointer;
+  z-index: 1000;
+  margin-left: 10px;
+  margin-top: -890px;
+}
